@@ -1,5 +1,7 @@
 # Programming - Software Development - Full Stack Web Development
 
+Tech
+
 1. HTML
 2. CSS -> Bootstrap | Tailwind CSS | Material UI | Bulma
 3. JavaScript -> frontend + backend
