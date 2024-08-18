@@ -1,4 +1,4 @@
-# Programming - Software Development - Full Stack Web Development
+# Programming - Software Development - Full Stack Web Development - Resources 
 
 Tech
 
@@ -16,7 +16,7 @@ Database -> SQL, MySQL, MongoDB (NoSQL), Sequelize, Mongoose
 
 Data Structure and Algorithms -> 
 
-Programming -> JavaScript | Python | Go
+Programming -> JavaScript | Python | Go | C | C++ | Java | C#
 
 Tutorials
 
