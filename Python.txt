@@ -1,0 +1,308 @@
+Courses
+
+0. Udemy - Complete Python Developer in 2023 Zero to Mastery (ZTM)
+
+1. Udemy - 100 Days of Code: The Complete Python Pro Bootcamp 2023 (Dr. Angela)
+
+2. Coursera - Python for Everybody Specialization
+
+3. Google IT Automation with Python Professional Certificate
+
+4. Udemy - The Complete Python Bootcamp From Zero to Hero in Python (Jose)
+
+5. Cisco and Python Institute - Python Essentials (1/2) - Python Advanced (1/2/3/4/5) - PCEP/PCAP/PCPP (Certifications)
+
+6. DataCamp - Python Career and Skill Tracks
+
+Books
+
+0. Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming
+
+1. Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners
+
+2. Fluent Python
+
+3. 
+
+Websites
+
+0. https://www.w3schools.com/python
+1. https://www.programiz.com/python-programming
+2. https://www.geeksforgeeks.org/python-programming-language/
+3. 
+
+
+### Python Basic Programming ###
+
+* Data Types: int, float, bool, str
+* Data Struct: list, tuple, set, dictionary
+* Custom Data Types: classes
+* Specialized Data Types: None
+
+* Numbers: int, float 
+
+* Variables and var Naming, Constant
+
+* Numerical Operators: +, -, *, /, **, %, //
+
+* Math Functions: round, abs, etc. [Source: Python math modules]
+* Math Functions: bin(), complex()
+
+* Keywords: [False, await, else, import, pass, None, break, except, in, raise, True, class, finally, is, return, and, continue, for, lambda, try, as, def, from, nonlocal, while, assert, del, global, not, with, async, elif, if, or, yield] = Total number of keywords = 35
+
+* Expressions and Statements
+* Operators and operator precedence: (), **, * /, +-
+* Augmented assignment operators +=, *=, -=
+
+* Python Built-in functions and methods:
+abs() delattr() hash() memoryview() set() all() dict() help() min() setattr() any() dir() hex() next() slice() ascii() divmod() id() object() sorted() bin() enumerate() input() oct() staticmethod() bool() eval() int() open() str() breakpoint() exec() isinstance() ord() sum() bytearray() filter() issubclass() pow() super() bytes() float() iter() print() tuple() callable() format() len() property() type() chr() frozenset() list() range() vars() classmethod() getattr() locals() repr() zip() compile() globals() map() reversed() __import__() complex() hasattr() max() round() = Total 69
+
+* input(), print(), type()
+
+* String (str) and string concatenation 
+* Type conversion int(), float(), str(), etc.
+* Escape Sequences 's = \'s, \t, \n, etc.
+* Formatted string f, .format()
+* String indexing [start:stop:stepover]
+* String is immutable
+* Python String Methods [Source: String Methods]
+
+* Booleans: bool, False, True
+
+* Type conversion: like from str() to int() or int() to str() 
+
+* Lists and list slicing, list is mutable
+* Matrix
+* List methods: [Source]
+* Common list patterns
+* List unpacking
+
+* in
+* None
+
+* Dictionary, keys, values
+* Dictionary Methods: [Source]
+* Mixed DS (dict+list)
+* Tuples
+* Tuple methods: [Source]
+* Sets
+* Set methods: [Source]
+
+* Conditional Logic- if/elif/else
+
+* Indentation
+
+* Truthy vs Falsey (List is in stackoverflow)
+* Ternary Operator
+* short circuiting: and, or
+* Logical Operator: and, or, not; > < >= <= == !=
+* is vs ==
+
+* for loop: for, in
+
+* iterable: list, tuple, dict, set, string
+* iterate: one by one check each item in the collection
+
+* range()
+* enumerate()
+
+* while loop
+
+* break, continue, pass
+
+* GUI (shape design) using loop
+
+* Excellent programming structure: Clean, Readability, Predictability, DRY
+
+* Function: def
+* parameter, argument, positional parameter, keyword argument, default parameter
+* return
+* function in another function 
+* methods vs functions
+* Docstring: help, __dir__
+* args, kwargs: *args, **kwargs
+* Rule (serial under ()): (params, args, default params, kwargs)
+* Scope: What variables do I have access to?
+* Scope Rules: #1 local, #2 parent local, #3 global, #4 built-in functions
+* global and nonlocal keywords
+
+*******************************************
+
+### Object Oriented Programming ###
+
+*** OOP: class, creating object, instantiation of object
+** Object has methods and attributes
+* self, attributes, methods, class object attribute
+* __init__()
+* @classmethod: cls, @staticmethod
+* Encapsulation
+* Abstraction
+* Private vs Public: private: (_varName)
+* Inheritence: isinstance(objectName, ClassName)
+* Polymorphism
+* super()
+* Object introspection: dir(objectName)
+* Dunder (magic) methods: __init__, __len__, __str__, __call__, __del__, __getitem__, etc.
+  (Source: Special Method Names)
+* issubclass(): issubclass(ChildClassName, ParentClassName/Object)
+* Multiple Inheritence
+* MRO: Method Resolution Order: ClassName.__mro__
+
+***********************************************
+
+### Advanced Functional Programming ###
+
+* Functional Programming: Clear + Understandable, Easy to Extend, Easy to Maintain, Memory Efficient, DRY
+* Pure functions
+* map(), filter(), zip(), reduce()
+* lambda expressions: lambda, map(lambda), filter(lambda), reduce(lambda)
+* list, set, dictionary comprehensions
+
+### Advanced Decorators ###
+
+* Higher Order Functions
+* Decorators: @decorator, @classmethod, @staticmethod
+
+### Advanced Error Handling ###
+
+* Errors in Python: IndexError, TypoError, ZeroDivisionError etc.
+* Error Handling:
+{try:
+	---
+	raise Error('***') or raise Exception('***')
+except Error as err:
+	---
+finally:
+	---
+continue, break}
+
+### Advanced Generators ###
+
+* range()
+* iterable, iterate, iterator, generator
+* yield, next
+* Generator performance
+* __iter__, __next__
+* import time
+* StopIteration
+* example: fibonacci number
+
+******************************************
+
+### Modules in Python ###
+
+* Modules: import moduleName or import DirtName.ModuleName or from DirName import ModuleName and import Module as Mod
+* Packages: pip/ conda install PackageName
+* Directory
+* __name__ == '__main__'
+* Python built-in modules: Module index help, dir
+* Python package index: pypi.org 
+* pip install
+* Virtual environment (venv)
+* Useful modules: Collections, datatime, array
+* list vs array
+
+### Debugging in Python ###
+
+* How to debug code: linting, ide/ editor, read errors, pdb
+
+### File I/O ###
+
+* Read, Write, Append: mode
+* File paths: pathlib, relative/ absolute path
+* File I/O error: FileNotFoundError, IOError
+* Translator program: package translate
+
+### Regular Expression ###
+
+* Regular Expression: module re
+* Python regex: special Sequences, sets
+* regex101.com
+* email-password validation using regex
+
+### Testing in Python ###
+
+* unittest: modules unittest, script
+
+*********************************************
+
+### Scripting with Python ###
+
+* Image Processing: Pillow, OpenCV
+
+* PDFs with Python: PyPDF2
+
+* Email Sending with Python: smtplib
+
+* Password Checker Project: https://haveibeenpwned.com/Passwords
+Password API: requests
+https://passwordsgenerator.net/sha1-hash-generator/
+Hash Functions
+
+* Twitter BOT Project: twitter API: tweepy
+
+* SMS with Python: twilio
+
+***********************************************************
+
+### Scraping Data with Python ###
+
+* Web Scraping
+* APIs: url/robots.txt (*with allowed must)
+* GoogleBot, BingBot, BaiduSpider, YandexBot, Google Chrome Web Scrapper Ext.
+SWAPI, JSONPlaceHolder
+* How GoogleBot works
+* requests
+from bs4 import BeautifulSoup
+pprint
+* Scrapy
+
+********************************************
+
+### Web Development ###
+
+* Python HTTP server
+
+*** Flask ***
+
+* Flask: Setting Up, Building Server, Templates, Static Files, Favicon, 
+Templating Engine (Jinja), URL Parameters, MIME Types
+
+Portfolio Building Project
+
+*** Django ***
+
+*******************************************
+
+### Automation Testing ###
+
+*** Selenium with Python: webdriver (chrome: ChromeDriver)
+https://www.seleniumeasy.com/test/
+https://selenium-python.readthedocs.io/
+
+******************************************
+
+### Scientific Python ###
+
+*** Scipy
+*** SymPy
+# Data Analysis Tools
+*** NumPy
+*** Pandas
+# Data Visualization Tools
+*** Matplotlib
+*** Seaborn
+*** Pandas
+# Interactive Data visualization
+*** Plotly
+*** Cufflinks
+# Advance interactive environements
+*** IPython
+*** Jupyter
+
+### ML/DS ###
+
+scikit-learn
+keras
+tensorflow
+pytorch

@@ -1,0 +1,88 @@
+C++ Programming:
+
+# Fundamentals
+
+* Variables
+* Identifiers
+* Fundamental Data Types: char, short, int, long, float, double, bool (signed/ unsigned)
+* string
+* Scope of Variables: Global, Local
+* Reserved Keywords:
+asm, auto, bool, break, case, catch, char, class, const, const_cast, continue, default, delete,
+do, double, dynamic_cast, else, enum, explicit, export, extern, false, float, for, friend, goto,
+if, inline, int, long, mutable, namespace, new, operator, private, protected, public, register,
+reinterpret_cast, return, short, signed, sizeof, static, static_cast, struct, switch, template,
+this, throw, true, try, typedef, typeid, typename, union, unsigned, using, virtual, void,
+volatile, wchar_t, while
+* constants, literals (string, bool), defined constants (#define), declared constants (const)
+
+* Escape Sequence: /n, /t, 
+
+* Operators: 
+assignment (=)
+arithmetic +, -, *, /, %
+Compound assignment (+=, -=, *=, /=, %=, >>=, <<=, &=, ^=, |=)
+Increase and decrease (++, --)
+Relational and equality operators ( ==, !=, >, <, >=, <= )
+Logical operators ( !, &&, || )
+Conditional operator ( ? )
+Comma operator ( , )
+Bitwise Operators ( &, |, ^, ~, <<, >> )
+Explicit type casting operator ()
+sizeof()
+Precedence of operators
+
+* Basic I/O
+cout, cin
+library: iostream, string, sstream
+
+* Control Structure:
+* Conditional structure: if, else if, else
+* Iteration structure: 
+while, do-while, for loops
+* Jump statements:
+break, continue, goto
+* exit() fi=unction
+* Selective structure:
+switch, case, break, default
+
+* Functions:
+type name ( parameter1, parameter2, ...) { statements }
+void functions
+Arguments passed by value and by reference
+Default values in parameters
+overloaded func, inline func, recursivity, declare
+
+* Compound Data Type: Array, nD array
+* Pointer: Reference operator (&), Dereference operator (*)
+void pointer, null pointer, function poiner
+* Dynamic memory: Operator new, new[], delete, delete[]
+* Data Structure: struct
+* Defined data types (typedef)
+* Union, anonymous union, enumeration (enum)
+
+# OOP
+
+* Class, object
+* Access specifier: private, protected, public
+* constructor, destructor
+* overloading, default constructor
+* this, static members
+
+* Frienship and Inheritence
+* friend functions and classes
+* multiple inheritence
+* Polymorphism
+
+# Advanced Concepts
+* Templates: function templates and class templates
+* Namespaces
+* using
+* Exceptions
+* Type casting: implicit and explicit
+* dynamic, static, reinterpret, const cast
+* typeid
+
+
+C Programming:
+
