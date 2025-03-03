@@ -14,7 +14,7 @@ Database -> SQL, MySQL, MongoDB (NoSQL), Sequelize, Mongoose
 
 Data Structure and Algorithms -> 
 
-Programming -> JavaScript | Python | Go
+Programming -> JavaScript | Python | Go | C C++ 
 
 Tutorials
 
@@ -35,11 +35,26 @@ Books:
 
 Problem Solving:
 
-0. https://leetcode.com/
-1. https://www.hackerrank.com/
-2. https://exercism.org/
-3. https://www.hackerearth.com/
-4. 
+FreeCodeCamp - https://www.freecodecamp.org/
+HackerRank - https://www.hackerrank.com/
+HackerEarth - https://www.hackerearth.com/
+ProjectEuler - https://projecteuler.net/
+Codeforces - https://codeforces.com/
+Codechef - https://www.codechef.com/
+LeetCode - https://leetcode.com/
+LightOJ - https://lightoj.com/
+SphereOJ - https://www.spoj.com/
+OnlineOJ - https://onlinejudge.org/
+Exercism - https://exercism.org/
+Codewars - https://www.codewars.com/
+Coderbyte - https://coderbyte.com/
+Beecrowd - https://judge.beecrowd.com/
+Codingame - https://www.codingame.com/
+AtCoder - https://atcoder.jp/
+toph - https://toph.co/
+Geeks for Geeks - https://www.geeksforgeeks.org/
+InterviewBit - https://www.interviewbit.com/practice/
+Rosalind (Bioinformatics) - https://rosalind.info/
 
 Courses:
 
